@@ -6,7 +6,7 @@
 
 在很长一段时间里，本片TV版唯一一份中文字幕是盗版VCD自带字幕（有的地方将此字幕误标成了漫游字幕组字幕），错误与脱漏极多，本片……与我的因缘没有那么深（我只是小时候看过《太空堡垒》），但犹豫再三，还是觉得它值得一份更好的字幕，故决定开工重译。
 
-至于剧场版，其实NEO·QSW组已经制作过剧场版的双语字幕了（https://share.dmhy.org/topics/view/432688_NEO_QSW_Macross_V2_BDrip.html），但我开工前没有发现这一点……不过，对于剧场版中的部分难点，我有不同见解，因此这个译本也不算是重复劳动。
+至于剧场版，其实NEO·QSW组已经制作过剧场版的双语字幕了（[https://share.dmhy.org/topics/view/432688_NEO_QSW_Macross_V2_BDrip.html](https://share.dmhy.org/topics/view/432688_NEO_QSW_Macross_V2_BDrip.html)），但我开工前没有发现这一点……不过，对于剧场版中的部分难点，我有不同见解，因此这个译本也不算是重复劳动。
 
 本片的日文字幕以 https://subdl.com/subtitle/sd177836/super-dimension-fortress-macross/japanese 网站的佚名字幕为基础，参考 http://macrocosmosnet.web.fc2.com/macross/line.html 网站听写的台词修正而成，在此一并表示感谢。
 
