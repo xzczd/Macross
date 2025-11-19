@@ -32,7 +32,7 @@ Style: bg,SimHei,18,&H00FFFFFF,&HF0000000,&H00000000,&HF0000000,-1,0,0,0,100,100
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:00.00,0:00:02.46,Default,,0,0,0,,{\an8\fad(500,500)\blur3\bord2}本字幕由机伤同萌制作 请勿用于商业用途 谢谢合作
-Dialogue: 0,0:00:04.21,0:00:06.63,Default,,0,0,0,,{\an8\fad(500,500)\blur3\bord2}翻译：信至 时轴：信至\N日文字幕：http://macrocosmosnet.web.fc2.com/macross/line.html\N英文字幕：https://www.macrossworld.com/mwf/topic/48586-dyrl-blu-ray-2016-english-subtitles/
+Dialogue: 0,0:00:04.21,0:00:06.63,Default,,0,0,0,,{\an8\fad(500,500)\blur3\bord2\fs20}翻译：信至 时轴：信至\N日文字幕：http://macrocosmosnet.web.fc2.com/macross/line.html\N英文字幕：https://www.macrossworld.com/mwf/topic/48586-dyrl-blu-ray-2016-english-subtitles/
 Dialogue: 0,0:03:37.50,0:03:43.66,minmei,,0,0,0,,画出了两颗重叠的心\N{\fs10}\N{\fs21}大きなハートが 重ねて二つ
 Dialogue: 0,0:03:44.13,0:03:50.76,minmei,,0,0,0,,广阔的蓝天上是爱的符号\N{\fs10}\N{\fs21}青い大空 ラブサイン
 Dialogue: 0,0:03:50.96,0:03:52.33,minmei,,0,0,0,,我爱你\N{\fs10}\N{\fs21}I love you
